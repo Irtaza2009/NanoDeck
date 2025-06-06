@@ -2,7 +2,9 @@
 
 **By Irtaza**
 
-![alt text](https://github.com/Irtaza2009/hackpad/blob/main/hackpads/Nano_Deck/Nano_Deck.jpg)
+![Case 3d Render](https://github.com/Irtaza2009/hackpad/blob/main/hackpads/Nano_Deck/Nano_Deck.jpg)
+
+Demo of assembled case [here](https://sleeping.wtf/ZEL2HrrmgGSxUmTqGjLX1.mp4)!
 
 # BOM:
 
